@@ -16,7 +16,7 @@
 * 姓名：陆华（远尘）
 * 团队：支付宝个人应用前端开发组
 * 简介：2011年5月加入支付宝，负责个人应用产品研发。
-* 照片：![avatar](assets/1.jpeg)
+* 照片：![avatar](https://raw.github.com/wd-tutorials/wd-debug/master/assets/1.jpeg)
 * 微博：<a href="http://weibo.com/noahua" target="_blank">weibo.com/noahua</a>
 * 博客：<a href="http://www.noahlu.com" target="_blank">noahlu.com</a>
 
