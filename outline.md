@@ -10,6 +10,7 @@
     * Chrome/Safari开发者面板, Firebug, IE开发者工具
     * IE DebugBar
     * Fiddler/Charles
+    * Page Speed/HTTP Archive
 * 常见调试场景
     * JS调试
     * Ajax调试
